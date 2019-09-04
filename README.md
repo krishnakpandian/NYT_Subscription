@@ -6,4 +6,4 @@ I created multiple functions that serve as ways to send the current New York Tim
 I initially wanted to make this into a web app but due to the potential legal and ethical issues revolving around web scraping I have chosen not continue developing this project. However, I did learn a lot about file parsing and how we can start up server and email access.
 
 
-If you do plan to use this service bot, you will need to modify some permissions in your emai.
+If you do plan to use this service bot, you will need to modify some permissions in your email.
